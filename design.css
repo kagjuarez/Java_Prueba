@@ -1,0 +1,63 @@
+.saludo{
+    font-family: 'Yanone Kaffeesatz';
+    color: #4F4F4F;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    
+}
+
+.nuevaClase{
+   font-family: 'Yanone Kaffeesatz';
+    color: #1BD1D6;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 70px;
+    transition: 0.5s;
+    
+}
+
+.estilo_1{
+    width: 300px;
+    height: 400px;
+    background-color: #7E0E29;
+    margin: auto;
+}
+
+.estilo_2{
+    width: 300px;
+    height: 300px;
+    background-color: #7E0E29;
+    margin: auto;
+    transition: 0.5s;
+    
+}
+
+
+
+
+.ds_boton{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
